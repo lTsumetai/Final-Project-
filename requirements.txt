@@ -8,3 +8,6 @@ gdown
 pandas
 matplotlib
 altair
+streamlit>=1.32
+pandas>=2.0
+plotly>=5.18
