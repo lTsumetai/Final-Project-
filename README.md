@@ -4,7 +4,7 @@
 Understand not just *whether* a review is good or bad, but the *theme* behind it —
 what customers actually praise, and what they actually complain about.
 
-🔗 **Live app:** [Hugging Face]([https://topicpulse.streamlit.app/](https://huggingface.co/spaces/dahutapea/Topic-Modeling-Tokopedia-Reviews))
+🔗 **Live app:** [Hugging Face](https://huggingface.co/spaces/dahutapea/Topic-Modeling-Tokopedia-Reviews)
 
 > Hacktiv8 Data Science Bootcamp — Final Project (FTDS-040-HCK, Group 001)
 
